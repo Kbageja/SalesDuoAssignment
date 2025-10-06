@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "data": {
+        "summary": "The team discussed the upcoming product launch on June 10th, covering preparations and outstanding tasks. Key topics included onboarding documentation, logistics, user feedback, pricing, marketing, and bug fixes.",
+        "decisions": [
+            "Launch new product on June 10"
+        ],
+        "actionItems": [
+            {
+                "task": "Prepare onboarding docs",
+                "owner": "Ravi",
+                "due": "June 5"
+            },
+            {
+                "task": "Follow up with logistics team on packaging delay",
+                "owner": "Priya"
+            },
+            {
+                "task": "Finalize pricing strategy"
+            },
+            {
+                "task": "Create social media campaign",
+                "owner": "Marketing team"
+            }
+        ]
+    }
+}

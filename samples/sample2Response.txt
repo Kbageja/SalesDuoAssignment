@@ -1,0 +1,32 @@
+{
+    "success": true,
+    "data": {
+        "summary": "The Q4 strategy meeting covered the company's exceeding revenue targets by 15% and the decision to expand into European markets in Q1 2024. The meeting also addressed the need to hire additional engineers for the platform rewrite and the improved customer retention rate.",
+        "decisions": [
+            "Approved $2M budget for European expansion",
+            "Platform rewrite will use microservices architecture",
+            "Will open Berlin office in March 2024"
+        ],
+        "actionItems": [
+            {
+                "task": "Schedule board meeting to approve expansion budget",
+                "owner": "Sarah",
+                "due": "Dec 20"
+            },
+            {
+                "task": "Create technical roadmap for platform v2.0",
+                "owner": "John",
+                "due": "Dec 30"
+            },
+            {
+                "task": "Prepare financial projections for EU expansion",
+                "owner": "Mike"
+            },
+            {
+                "task": "Research marketing agencies in Germany and France",
+                "owner": "Lisa",
+                "due": "Jan 5"
+            }
+        ]
+    }
+}

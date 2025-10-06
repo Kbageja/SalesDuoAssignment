@@ -1,0 +1,20 @@
+Q4 Strategy Meeting - December 15
+
+Attendees: Sarah (CEO), John (CTO), Mike (CFO), Lisa (CMO)
+
+Discussion Points:
+- Revenue exceeded targets by 15% this quarter
+- Decided to expand into European markets starting Q1 2024
+- Need to hire 5 additional engineers for the platform rewrite
+- Customer retention rate improved to 92%
+
+Action Items:
+- Sarah: Schedule board meeting to approve expansion budget by Dec 20
+- John: Create technical roadmap for platform v2.0 by Dec 30
+- Mike: Prepare financial projections for EU expansion
+- Lisa: Research marketing agencies in Germany and France by Jan 5
+
+Key Decisions:
+- Approved $2M budget for European expansion
+- Platform rewrite will use microservices architecture
+- Will open Berlin office in March 2024

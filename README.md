@@ -231,5 +231,3 @@ MIT
 
 Built as an intern assignment for demonstrating AI integration in Node.js backend services.
 
-```
-```
